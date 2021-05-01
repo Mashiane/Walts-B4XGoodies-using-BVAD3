@@ -11,10 +11,10 @@ YouTube
 
 https://youtu.be/1ftTPYJ0BWk
 
-#Walt's B4xGoodies Explorer using BVAD3 on Mobile Device
+# Walt's B4xGoodies Explorer using BVAD3 on Mobile Device
 
 https://youtu.be/pdmXhmFk5gQ
 
-#Searching B4xGoods and Creating Overviews
+# Searching B4xGoods and Creating Overviews
 
 https://youtu.be/8_-etYPYGSg
